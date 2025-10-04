@@ -150,7 +150,7 @@ $filteredBooks = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <?php foreach($filteredBooks as $book): ?>
                     <div class="col-md-4 col-lg-3 mb-4">
                         <div class="card book-card">
-                            <img src="<?= htmlspecialchars($book['cover_image_url'] ?? 'https://via.placeholder.com/300x400/f8f9fa/6c757d?text=No+Cover') ?>" 
+                            <img src="../<?= htmlspecialchars($book['cover_image_url'] ?? 'https://via.placeholder.com/300x400/f8f9fa/6c757d?text=No+Cover') ?>" 
                                  class="card-img-top book-cover" alt="<?= htmlspecialchars($book['title']) ?>">
                             <div class="card-body">
                                 <h6 class="card-title fw-bold"><?= htmlspecialchars($book['title']) ?></h6>

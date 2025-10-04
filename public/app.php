@@ -387,6 +387,9 @@ $audiobooks = $stmt->fetchAll(PDO::FETCH_ASSOC);
             case 'home':
                 include 'pages/home.php';
                 break;
+            case 'home':
+                include 'pages/bookdetails.php';
+                break;
             case 'books':
                 include 'pages/books.php';
                 break;

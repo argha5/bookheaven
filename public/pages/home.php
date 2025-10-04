@@ -4,21 +4,21 @@
         <div id="promoCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://via.placeholder.com/1200x400/3498db/ffffff?text=Welcome+to+BookHeaven+2.0" class="d-block w-100" alt="Book Rental Promotion" style="height: 400px; object-fit: cover;">
+                    <img src="../assets/images/1.png" class="d-block w-100" alt="Book Rental Promotion" style="height: 400px; object-fit: cover;">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>Welcome to BookHeaven 2.0</h2>
                         <p>Your ultimate book rental destination</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://via.placeholder.com/1200x400/e74c3c/ffffff?text=Audiobook+Collection" class="d-block w-100" alt="Audiobook Collection" style="height: 400px; object-fit: cover;">
+                    <img src="../assets/images/2.png" class="d-block w-100" alt="Audiobook Collection" style="height: 400px; object-fit: cover;">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>Audiobook Collection</h2>
                         <p>Listen to your favorite stories</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://via.placeholder.com/1200x400/27ae60/ffffff?text=Become+a+Writer" class="d-block w-100" alt="Become a Writer" style="height: 400px; object-fit: cover;">
+                    <img src="../assets/images/3.png" class="d-block w-100" alt="Become a Writer" style="height: 400px; object-fit: cover;">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>Become a Writer</h2>
                         <p>Share your stories with the world</p>
